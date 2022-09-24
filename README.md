@@ -2,7 +2,9 @@
 # Grupo 2 - Sensores y Actuadores - 2022
 ### Integrantes: :heavy_check_mark:
 •	 Andres Montaño.
+
 •  Alfredo Palacios.
+
 •  Rodolfo Paz.
 
 ![image](https://user-images.githubusercontent.com/84986194/191102091-65559995-acbf-4ea7-9c1a-1a451493df7c.png)
